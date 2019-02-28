@@ -1,4 +1,4 @@
-OWASP Maryam Framework
+<font size="5" color="blue">OWASP Maryam Framework</font>
 
 Maryam is a framework written by the Python language. Maryam is a kernel ready for those who want to have a framework for their web scanners.
 why?
